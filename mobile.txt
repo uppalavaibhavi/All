@@ -1,0 +1,3 @@
+name : realme
+version : 12.0
+ram : 128gb
